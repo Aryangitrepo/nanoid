@@ -1,3 +1,3 @@
-module github.com/aidarkhanov/nanoid/v2
+module github.com/Aryangitrepo/nanoid/v2
 
 go 1.14
